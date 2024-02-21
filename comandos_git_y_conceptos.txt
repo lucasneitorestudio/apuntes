@@ -1,0 +1,60 @@
+## COMANDOS DE GIT Y DEMÁS CONCEPTOS
+Git init.-Crear un nuevo repositorio de git.
+
+Git init es un comando que se utiliza una sola vez durante la configuración inicial de un repositorio nuevo. Al ejecutar este 
+comando, se creará un nuevo subdirectorio . git en tu directorio de trabajo actual. También se creará una nueva rama principal.
+(Atlassian.com)
+
+Git config.- Se usa para configurar disintas cosas en git, por ejemplo el usuario.
+
+El comando git config es una función útil que sirve para definir valores de configuración de Git a nivel de un proyecto global
+o local. Estos niveles de configuración se corresponden con archivos de texto . gitconfig .(Atlassian.com)
+
+Git add.- Añadir un archivo.
+
+El comando git add añade contenido del directorio de trabajo al área de ensayo (staging area o 'index') para la próxima 
+confirmación.(Git.com)
+
+Git commit.- Agregar un comentario de confirmación.
+
+El comando git commit captura una instantánea de los cambios preparados en ese momento del proyecto. Las instantáneas 
+confirmadas pueden considerarse como versiones "seguras" de un proyecto: Git no las cambiará nunca a no ser que se lo pidas 
+expresamente.(Atlassian.com)
+
+Git push.- Llevar unestro archivo al repositorio remoto.
+
+El comando git push se utiliza para comunicar con otro repositorio, calcular lo que tu base de datos local tiene que la 
+remota no tiene, y luego subir (push) la diferencia al otro repositorio. (Git.com)
+
+Git pull.- Traer un archivo del repositorio remoto a nuestro repositorio local.
+
+El comando git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el 
+repositorio local para reflejar ese contenido.(Atlassian.com)
+
+Git branch.- Son ramas de codigo en las que nos podemos mover y trabajar varias personas.
+
+Git branch son un puntero para una instantánea de tus cambios. Cuando desea agregar una nueva característica o corregir un
+error, sin importar cuán grande o que tan pequeño sea, genera una rama para encapsular sus cambios. (Atlassian.com)
+
+Git checkout.- Cambia entre las distintas ramas de el repositorio.
+
+El comando git checkout te permite desplazarte entre las ramas creadas por git branch . Al extraer una rama, se actualizan los
+archivos en el directorio de trabajo para reflejar la versión almacenada en esa rama y se indica a Git que registre todas las 
+confirmaciones nuevas en dicha rama. (Atlassian.com)
+
+Github.- Github es una plataforma para guardar código remotamente.
+
+GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para 
+la creación de código fuente de programas de ordenador.(Github.com)
+
+Github pages.- Es una plataforma de Github para crear páginas web.
+
+GitHub Pages es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un 
+repositorio en GitHub, opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web.
+(Github.com)
+
+Wiki.- Una pagina donde los usuarios pueden compartir ideas y conceptos.
+
+Un wiki es un sitio diseñado para que grupos de usuarios puedan crear páginas sencillas y vincularlas entre sí para capturar
+y compartir ideas rápidamente. Su organización puede usar un wiki para diferentes finalidades. A gran escala, puede compartir
+grandes volúmenes de información en un wiki empresarial.(Microsoft.com)
