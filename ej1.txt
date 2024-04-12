@@ -1,0 +1,8 @@
+EJERCICIO 1
+
+string s1,s2,s3;
+s1 = "fire";
+s2 = "FOKIIA";
+s3 = "firewood";
+
+if (s1 < s2 && s2 < s3)

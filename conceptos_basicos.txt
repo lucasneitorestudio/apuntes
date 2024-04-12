@@ -1,0 +1,67 @@
+## APUNTES Y CONCEPTOS
+
+Software.- Es todo lo digital, todo lo que no podemos tocar a nivel tecnológico por ejemplo facebook o windows.
+
+El software se define como programas de computadoras, las instrucciones responsables de que el hardware (la máquina) realice su tarea, 
+incluyendo, por tanto, las estructuras de datos y la documentación implícita en el programa. Como concepto general, el software puede 
+dividirse en varias categorías basadas en el tipo de trabajo realizado (Universidad de Granada,)
+
+Ingeniería de Software.- Es la carrera que nos permite crear un software de manera correcta usando herramientas de la ingeniería.
+
+La ingeniería del software es una disciplina que implica el uso de estructuras, herramientas y técnicas para construir programas
+informáticos.
+
+Así mismo, incluye el análisis previo de la situación, la redacción del proyecto, la creación del software y las pruebas necesarias para 
+garantizar el correcto funcionamiento del software antes de poner el sistema en funcionamiento.(UNIR Mexico, 2021)
+
+Git.- Git es como un historial de cambios para tus archivos permitiéndote trabajar en distintas versiones y colaborar otros en proyectos.
+
+Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños 
+hasta proyectos muy grandes con velocidad y eficiencia.(git.com, 2005)
+
+Programación.- La programacion es el proceso de escribir codigo para resolver un problema.
+
+La programación es el proceso de crear un conjunto de instrucciones que le dicen a una computadora como realizar algún tipo de tarea. Pero 
+no solo la acción de escribir un código para que la computadora o el software lo ejecute. Incluye, además, todas las tareas necesarias para
+que el código funcione correctamente y cumpla el objetivo para el cual se escribió.(Juganaru, 2014)
+
+Lenguaje de programación.- Los lenguajes de progamacion son simbolos para poder comunicarse con la compuadora y darle instrucicones para 
+poder resolver un problema.
+
+Un lenguaje de programación es un conjunto de reglas gramaticales (tanto sintácticas como semánticas) que instruyen a que un ordenador o
+dispositivo se comporte de una cierta manera.(Chakray.com)
+
+Compilador.- El compilador es si o si necesario. Un compilador es un software que trauce un codigo para que lo entienda la computadora
+
+Normalmente, un compilador transforma código escrito en un lenguaje de alto nivel como C++, Rust o Java en código ejecutable — llamado 
+código binario o código máquina.(developer.mozilla.org)
+
+Ciclo de desarrollo de sofware.- Es una forma de organización al momento de realizar un software para tener un orden y que todo salga bien.
+
+El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de 
+desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una
+planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente.
+Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar 
+y medir.(aws.amazon.com)
+
+1.- Planeamiento (Planning).- Identifica el problema y ve a que te estas enfretando para poder planear un metodo con el cual resolverlo.
+La fase de planificación incluye normalmente tareas como análisis de costos y beneficios, programación, estimación de recursos y 
+asignación.(aws.amazon.com)
+2.- Analisis (Analysis).- Es similar y entra un poco en la etapa de planeamiento, analizar nuestro problema y buscar metodos.
+A través de esta fase se descubre todo lo que se espera del software. Por ello, se realiza una exhaustiva investigación para llegar a 
+una comprensión precisa de los requerimientos o características que debe poseer el programa.(global.tiffin.edu)
+3.- Diseño (Desing).- En esta fase tenemos que ver que recursos tenemos y que es lo que podemos hacer con ello.
+En la fase de diseño, los ingenieros de software analizan los requisitos e identifican las mejores soluciones para crear el 
+software.(aws.amazon.com)
+4.- Implementacion de codigo (Implementation or coding).- Es la parte en la que plasmamos todos los pasos anteriores mediante código u 
+otros métodos.
+En la fase de implementación, el equipo de desarrollo codifica el producto. Se analizan los requisitos para identificar tareas de 
+codificación más pequeñas que puedan hacerse diariamente para conseguir el resultado final.(aws.amazon.com)
+5.- Testeo (Testing and integration).- Este paso es super importante y no solo tenemos que ver si funciona en nuestra computadora, puede 
+que muchos factores como la hora y el idioma que puede hacerlo fallar.
+El equipo de desarrollo combina las pruebas automáticas y manuales para comprobar si el software tiene errores. Los análisis de calidad 
+incluyen probar el software para detectar errores y comprobar si cumple los requisitos del cliente.(aws.amazon.com)
+6.- Mantenimiento (Maintenance).- Es asegurarnos de nuestro codigo siga funcionando una vez entregado, es asi como una garantia.
+En la fase de mantenimiento, entre otras tareas, el equipo corrige errores, resuelve problemas de los clientes y administra los cambios
+hechos en el software. Además, el equipo supervisa el rendimiento general del sistema, la seguridad y la experiencia del usuario para
+identificar nuevas maneras de mejorar el software existente.(aws.amazon.com)

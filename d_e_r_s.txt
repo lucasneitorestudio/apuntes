@@ -1,0 +1,62 @@
+#Documento de especificación de requisitos de software - Página influencer
+
+# 1. Introduccion
+Estamos realizando una página 
+
+## 1.1 Alcance del producto
+Lista de tareas:
+-Buscar recursos gráficos (foto de perfil, imagen de fondo,  paleta de colores)
+-Escoger paleta de colores
+-Buscar información del perfil del cliente
+-Buscar redes sociales
+-Buscar productos y servicios a vender del cliente
+
+Beneficios:
+
+Objetivo General:
+
+Crear una página sencilla de accesos directos a sus mejores productos y servicios para llegar a los mejores clientes.
+
+Objetivos Específicos:
+
+- Establecer las metricas a evaluar
+- Componer los reportes de métricas 
+- Componer su página estilo Linktree
+
+Metas:
+
+- Una página web estilo Linktree.
+- Reportes mensuales de sus métricas de la página
+
+## 1.2 Valor del producto 
+Beneficios:
+
+
+## 1.3 Publico objetivo
+- El público objetivo de el influencer.(Mujeres jóvenes entre 15 y 30 años)
+
+## 1.4 Uso previsto 
+Para que va a utilizar el proyectotodo el publico objetivo
+El publico objetivo tendra mayor comodidad y fácil acceso a los links a los productos que mas les gusta comprar al cliente final
+
+
+## 1.5 Descripción general
+
+
+#2. Cronograma
+
+Segun el siguiente diagrama de gantt, vamos a proceder en la ejecucion
+
+---TAREA: ADJUNTAR URL DE LA IMAGEN
+ 
+# 3. Presupuesto 
+
+En la siguiente tabla, se detallan todos los costes a considerar para el proyecto
+
+--TAREA: CREAR LA TABLA Y PEGARLA
+
+# 4. Diseño 
+
+En la siguiente imagen, se muestra la estructura del diseño de la página estilo Linktree:
+
+-- TAREA: ADJUNTAR URL DE LA IMAGEN (PAINT DE LINKTREE)

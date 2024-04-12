@@ -1,0 +1,12 @@
+El rey de ajedrez se mueve en diagonal, horizontal o verticalmente. Se da dos
+celdas diferentes en un tablero de ajedrez sin figuras. Determine si el rey
+puede llegar desde la primera celda a la segunda en un solo movimiento.
+
+Formato de entrada el programa recibe 4 numeros enteros del 1 al 8. El primer
+par de numeros especifica el numero de columna y fila para la primera celda.
+El segundo par de numeros especifica lo mismo para la segunda celda.
+
+Formato de salida: el programa debe imprimir YES si el rey puede llegar desde
+la primera celda a la segunda en un solo movimiento, o NO en caso contrario.
+
+Verificar 
