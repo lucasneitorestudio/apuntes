@@ -1,0 +1,99 @@
+Git push
+
+Subir cambios locales al repositorio remoto.
+
+Formalmente, Git push es el comando utilizado en el sistema de control de versiones Git para enviar los cambios realizados en el 
+repositorio local a un repositorio remoto. (Fuente: Git documentation, APA)
+
+Git pull
+
+Actualizar el repositorio local con los cambios del repositorio remoto.
+
+En términos formales, Git pull es el comando utilizado en Git para fusionar los cambios remotos en el repositorio local. 
+(Fuente: Git documentation, APA)
+
+Git branch
+
+Una línea independiente de desarrollo en Git que permite trabajar en nuevas características sin afectar la rama principal.
+
+Formalmente, una rama en Git es una "referencia móvil" que apunta a un commit específico. (Fuente: Pro Git book, APA)
+
+Git checkout
+
+Cambiar entre ramas o versiones de archivos en Git.
+
+Formalmente, Git checkout es el comando utilizado para cambiar de rama o restaurar archivos de un commit específico en Git. 
+(Fuente: Git documentation, APA)
+
+Git fork
+
+Crear una copia independiente de un repositorio en GitHub.
+
+En términos formales, un fork en Git es una bifurcación de un repositorio existente que permite a un usuario trabajar en su 
+propia versión sin afectar al repositorio original. (Fuente: GitHub documentation, APA)
+
+Git merge
+
+Combinar cambios de una rama en otra en Git.
+
+Formalmente, Git merge es el proceso de integrar cambios realizados en una rama en otra rama en Git. (Fuente: Pro Git book, APA)
+
+QA
+
+Control de calidad, que incluye procesos y técnicas para asegurar que un producto cumpla con los estándares de calidad.
+
+Formalmente, QA (Aseguramiento de la calidad) es el proceso sistemático de asegurar que un producto o servicio cumpla con los 
+requisitos específicos del cliente y las expectativas de calidad. (Fuente: ISTQB Glossary, APA)
+
+Testing o pruebas
+
+Proceso de ejecución de un programa o sistema para identificar errores o defectos.
+
+En términos formales, las pruebas son el proceso de ejecutar un programa o sistema con la intención de encontrar errores. 
+(Fuente: "Software Testing Fundamentals" by M. Gupta, APA)
+
+Debugging o Depuración
+
+Proceso de identificar y corregir errores o fallos en un programa o sistema.
+
+Formalmente, la depuración es el proceso de encontrar y corregir errores en un programa informático. 
+(Fuente: "The Art of Debugging with GDB, DDD, and Eclipse" by N. Blundell et al., APA)
+
+Metodologías de proyectos
+
+Enfoques sistemáticos para la planificación, ejecución y gestión de proyectos.
+
+Formalmente, una metodología de proyecto es un conjunto de procesos, actividades y prácticas utilizadas para gestionar un 
+proyecto desde su inicio hasta su finalización. (Fuente: "A Guide to the Project Management Body of Knowledge (PMBOK Guide)" 
+by Project Management Institute, APA)
+
+Metodología en cascada
+
+Un enfoque secuencial para el desarrollo de software, donde cada etapa debe completarse antes de pasar a la siguiente.
+
+Formalmente, la metodología en cascada es un enfoque de desarrollo de software en el que las fases de desarrollo se completan 
+secuencialmente en un flujo descendente, y cada fase debe finalizarse antes de pasar a la siguiente. (Fuente: "Software 
+Engineering: A Practitioner's Approach" by R.S. Pressman, APA)
+
+Metodologías ágiles
+
+Enfoques iterativos e incrementales para el desarrollo de software que priorizan la colaboración, la flexibilidad y la 
+respuesta rápida al cambio.
+
+Formalmente, las metodologías ágiles son un conjunto de principios y prácticas para el desarrollo de software que se centran 
+en la entrega continua de software de alta calidad mediante la colaboración entre equipos multidisciplinarios y la adaptación 
+a los cambios. (Fuente: "Agile Software Development: The Cooperative Game" by A. Cockburn, APA)
+
+Iteración
+
+Proceso repetitivo de revisión y mejora en el desarrollo de software.
+
+Formalmente, una iteración en el desarrollo de software es un ciclo repetitivo de planificación, implementación, revisión y 
+ajuste que se utiliza para desarrollar gradualmente un producto o sistema. (Fuente: "Software Engineering: A Practitioner's 
+Approach" by R.S. Pressman, APA)
+
+
+
+
+
+
